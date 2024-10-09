@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Vani.
 
  <div>
-   <a href="https://github.com/Vani Dev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaniDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaniDev&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/apenasvani">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaniDev&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaniDev&layout=compact&langs_count=6&theme=graywhite"/>
 </div>
     
 <div style="display: inline_block"><br>
